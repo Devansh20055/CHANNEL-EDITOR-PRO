@@ -13,7 +13,7 @@ async def _manage(_, msg):
     await msg.reply(
         how,
         reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton('CONTACT MY DEV', url='https://t.me/ITS_NOT_ROMEO)]
+            [InlineKeyboardButton(' SUPPORT ', url='(https://t.me/ITS_NOT_ROMEO)]
         ]),
         quote=True
     )
