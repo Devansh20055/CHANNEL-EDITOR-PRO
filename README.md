@@ -1,8 +1,8 @@
-# Channel Automation Bot [@ChannelAutomateBot](https://t.me/ChannelAutomateBot)
+# Channel Automation Bot [@ChannelAutomateBot](https://t.me/POST_EDITOR_OP_BOT)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/ChannelBot"><img src="https://telegra.ph/file/98cda0fd7ebdc4002f07e.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/Devansh20055/CHANNEL-EDITOR-PRO"><img src="https://telegra.ph/file/98cda0fd7ebdc4002f07e.jpg" width="2000"></a></p>
 
 Telegram bot to automate and manage channels.
 
