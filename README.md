@@ -6,7 +6,6 @@
 
 Telegram bot to automate and manage channels.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## Usage
 
@@ -61,8 +60,6 @@ Telegram bot to automate and manage channels.
 ## To-Do
 
 > That's on you mainly...
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Credits
 
