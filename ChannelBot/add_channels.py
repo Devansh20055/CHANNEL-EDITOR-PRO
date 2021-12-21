@@ -27,8 +27,7 @@ async def _add_channels(bot: Client, msg):
                             if chat_member_user.status in ['creator', 'administrator']:  # Don't allow non-admins.
                                 success, info = await get_channel_info(channel_id)
                                 if success:
-                                    try:
-                                        admin_chat_member = await bot.get_chat_member(channel_id, info['admin_id'])
+                                    try: admin_chat_member = await bot.get_chat_member(channel_id, info['admin_id'])
                                     except (ChatAdminRequired, UserNotParticipant, ChannelPrivate):
                                         await remove_channel(info['admin_id'], channel_id)
                                         admin_chat_member = None
