@@ -14,7 +14,7 @@ async def _add_channels(bot: Client, msg):
     try:
         channel = await bot.ask(user_id,
                                    "**DONT KNOW HOW TO ADD ME TO CHANNEL ...? DONT WORRY :- [ CLICK ME ](https://telegra.ph/HOW-TO-ADD-POST-EDITOR-OP-BOT-12-22)**"
-                                "\n\Please add me as **admin** with atleast 'Post Messages' and 'Edit message of others' rights to the desired channel "
+                                "\n\nPlease add me as **admin** with atleast 'Post Messages' and 'Edit message of others' rights to the desired channel "
                                 "\n\nAfter that, forward a message from the channel. "
                                 "\n\nCancel this process using /cancel. If their is no reply in 5 minutes, action will be auto cancelled.", timeout=300)
         while True:
