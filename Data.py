@@ -26,13 +26,13 @@ By @team_silent_king
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
         [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/team_silent_king")],
-        [InlineKeyboardButton("🎨 CONTACT MY DEV 🎨", url="https://t.me/ITS_NOT_ROMEO")],
+        [InlineKeyboardButton("🎨 CONTACT MY MASTER 🎨", url="https://t.me/ITS_NOT_ROMEO")],
     ]
 
     # Help Message
     HELP = """
 **IF YOU DONT KNOW HOW TO ADD ME TO CHANNEL ...? 
-DONT WORRY :-** [CLICK ME ](https://telegra.ph/HOW-TO-ADD-POST-EDITOR-OP-BOT-12-22)
+DONT WORRY :-** [CLICK ME ]("https://telegra.ph/HOW-TO-ADD-POST-EDITOR-OP-BOT-12-22")
 **⬇⬇⬇ after you add bot to your channel ⬇⬇⬇⬇**.
 To add a channel use keyboard button 'Add Channels' or alternatively for ease, use `/add` command
 
