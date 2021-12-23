@@ -32,7 +32,9 @@ By @team_silent_king
     # Help Message
     HELP = """
 ** DONT KNOW HOW TO ADD ME TO CHANNEL ...? 
-\n\nDONT WORRY :-**[CLICK ME ](https://telegra.ph/HOW-TO-ADD-POST-EDITOR-OP-BOT-12-22)
+
+DONT WORRY :-**[CLICK ME ](https://telegra.ph/HOW-TO-ADD-POST-EDITOR-OP-BOT-12-22)
+
 **⬇⬇⬇ after you add bot to your channel ⬇⬇⬇⬇**.
 To add a channel use keyboard button 'Add Channels' or alternatively for ease, use `/add` command
 
