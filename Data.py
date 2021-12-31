@@ -59,4 +59,6 @@ Framework : [Pyrogram](docs.pyrogram.org)
 Language : [Python](www.python.org)
 
 Developer : @ITS_NOT_ROMEO
+
+FOR MORE BOTS JOIN :- [@team_silent_king](https://t.me/team_silent_king/4)
     """
