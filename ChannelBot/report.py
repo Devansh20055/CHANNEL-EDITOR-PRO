@@ -14,7 +14,6 @@ async def _manage(_, msg):
         how,
         reply_markup=InlineKeyboardMarkup([
             [InlineKeyboardButton('MY DEV', url='https://t.me/ITS_NOT_ROMEO')]
-            [InlineKeyboardButton('CREATOR ', url='https://t.me/team_silent_king')]
         ]),
         quote=True
     )
