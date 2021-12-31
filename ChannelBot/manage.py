@@ -16,7 +16,7 @@ async def _manage(bot: Client, msg):
 async def manage_channels(user_id, bot: Client):
     status, channels = await get_channels(user_id)
     if status:
-        text = 'Below are your channels.'
+        text = 'Below are your channels. \n\m FOR MORE BOTS JOIN :- @team_silent_king '
         buttons = []
         for channel in channels:
             try:
