@@ -39,4 +39,3 @@ async def callback(_, update: CallbackQuery):
     await update.answer(text=f"Added your click,\n\n{text}", show_alert=True)
 
 
-Bot.run()
