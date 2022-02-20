@@ -9,6 +9,17 @@ from pyrogram import Client, filters
 from pyrogram.errors import MessageNotModified
 from dotenv import load_dotenv
 
+
+Bot = Client(
+    "Click Counter Bot",
+    bot_token=os.environ.get("BOT_TOKEN"),
+    api_id=int(os.environ.get("API_ID")),  # type: ignore
+    api_hash=os.environ.get("API_HASH"),
+    parse_mode="html",
+    sleep_threshold=3600,
+)
+
+
 @Bot.on_message(filters.command(["count"]))
 async def count(_, update: Message):
     await update.reply_text(
