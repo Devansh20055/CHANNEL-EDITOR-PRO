@@ -1,1 +1,1 @@
-worker: python3 channelbot.py
+worker: python main.py
